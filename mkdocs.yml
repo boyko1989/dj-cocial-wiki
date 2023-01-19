@@ -7,11 +7,11 @@ nav:
     - Главная: index.md
     - Приёмы работы:
           - Предварительная настройка: practices/presetting.md
+          - Файл settings.py: practices/settings.md
     - Приложения:
           - Приложение "Блог": files_catalogs/blog/
     - Техническая информация:
           - Зависимости: dependencies/dev.md
-          - settings: settings.md
 
 theme:
     name: material
