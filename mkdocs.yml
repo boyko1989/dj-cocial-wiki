@@ -1,0 +1,39 @@
+site_name: social
+#docs_dir: '/home/p_boyko/Projects/PYTHON/Django/social/social/wiki'
+site_dir: 'wiki/docs'
+
+#site_url: http://social-django.doc/
+nav:
+    - Главная: index.md
+    - Приёмы работы:
+          - Предварительная настройка: practices/presetting.md
+    - Приложения:
+          - Приложение "Блог": files_catalogs/blog/
+    - Техническая информация:
+          - Зависимости: dependencies/dev.md
+          - settings: settings.md
+
+theme:
+    name: material
+
+dev_addr:
+    192.168.2.101:8376
+
+markdown_extensions:
+    - pymdownx.highlight
+    - pymdownx.inlinehilite
+    - pymdownx.superfences
+    - pymdownx.snippets
+    - toc:
+          permalink: True
+
+#collapse_single_pages: true
+
+plugins:
+    - search
+    - awesome-pages
+
+site_author:
+    p_boyko
+
+
