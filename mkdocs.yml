@@ -8,6 +8,7 @@ nav:
     - Приёмы работы:
           - Предварительная настройка: practices/presetting.md
           - Файл settings.py: practices/settings.md
+          - Нюансы добавления приложений: practices/installed_apps.md
     - Приложения:
           - Приложение "Блог": files_catalogs/blog/
     - Техническая информация:
