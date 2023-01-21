@@ -6,9 +6,11 @@ site_dir: 'wiki/docs'
 nav:
     - Главная: index.md
     - Приёмы работы:
+          - Порядок работы: practices/workflow.md
           - Предварительная настройка: practices/presetting.md
           - Файл settings.py: practices/settings.md
           - Нюансы добавления приложений: practices/installed_apps.md
+          - Переменные окружения: practices/dotenv.md
     - Приложения:
           - Приложение "Блог": files_catalogs/blog/
     - Техническая информация:
