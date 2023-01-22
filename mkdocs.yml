@@ -11,6 +11,7 @@ nav:
           - Файл settings.py: practices/settings.md
           - Нюансы добавления приложений: practices/installed_apps.md
           - Переменные окружения: practices/dotenv.md
+          - Jupiter Notebook: practices/jupiter.md
     - Приложения:
           - Приложение "Блог": files_catalogs/blog/
     - Техническая информация:

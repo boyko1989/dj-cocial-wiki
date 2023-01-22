@@ -5,6 +5,7 @@
 - [Pillow](https://pypi.org/project/Pillow/)
 - [channels](https://channels.readthedocs.io/en/stable/installation.html)
 
+
 ## Только для Django
 - [django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/index.html)
 - [django-cleanup](https://pypi.org/project/django-cleanup/)
@@ -13,6 +14,14 @@
 - [django-braces](https://django-braces.readthedocs.io/en/latest/)
 - [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/index.html)
 - [django.contrib.humanize](https://docs.djangoproject.com/en/4.1/ref/contrib/humanize/) - поставляемое с Django приложение не подключенное по умлочанию
+
+
+## Jupyter Notebook
+- [Jupiter](https://jupyter.org/install)
+- [django-extensions](https://django-extensions.readthedocs.io/en/latest/) - нужно для интеграции Django и Juputer
+- [jupyterthemes](https://github.com/dunovank/jupyter-themes)
+- [jupyter-tabnine](https://www.tabnine.com/install/jupyternotebook)
+
 
 ## Сервер документации
 - [MkDocs](https://www.mkdocs.org)
